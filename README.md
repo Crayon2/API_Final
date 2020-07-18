@@ -78,7 +78,7 @@
 * 若图片因为没有翻墙而显示不出来，可点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/dvd.png)查看
 
 
-#### [原型文档交互展示](https://modao.cc/app/659cfadccfd02aa1f0991a4db6df7ce986abdc9a?simulator_type=device&sticky#screen=skcq8b56l2r5tzw)
+#### [原型文档交互展示](https://modao.cc/app/659cfadccfd02aa1f0991a4db6df7ce986abdc9a?simulator_type=device&sticky)
 
 ## 心得总结及感谢
 
@@ -102,11 +102,46 @@ api说难不难，说简单也不简单，把握好技术文档的书写，其�
 
 ###  各Api技术文档
 
+#### [科大讯飞](https://www.xfyun.cn/)
+
+* [实时语音识别介绍](https://www.xfyun.cn/services/rtasr)
+
 - [科大讯飞实时语音识别api]( https://www.xfyun.cn/doc/asr/rtasr/API.html)
+
+* [实时语音识别定价](https://www.xfyun.cn/services/rtasr)
+
+<img src="images/xfdj.png" width="80%;" >
+
+* 若图片因为没有翻墙而显示不出来，可点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/xfdj.png)查看
+
+
+#### [百度智能云](https://cloud.baidu.com/)
+
+* [图片识别文字介绍](https://cloud.baidu.com/product/ocr/general)
 
 - [百度智能云图片识别文字api]( https://cloud.baidu.com/doc/OCR/s/zk3h7xz52)
 
+* [图片识别文字定价](https://cloud.baidu.com/doc/OCR/s/9k3h7xuv6)
+
+<img src="images/badj.png" width="80%;" >
+
+* 若图片因为没有翻墙而显示不出来，可点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/badj.png)查看
+
+
+
+#### [有道智云](http://ai.youdao.com/gw.s)
+
+* [图片翻译介绍](http://ai.youdao.com/product-fanyi-picture.s)
+
 - [有道智云图片翻译api](http://ai.youdao.com/DOCSIRMA/html/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E7%BF%BB%E8%AF%91/API%E6%96%87%E6%A1%A3/%E5%9B%BE%E7%89%87%E7%BF%BB%E8%AF%91%E6%9C%8D%E5%8A%A1/%E5%9B%BE%E7%89%87%E7%BF%BB%E8%AF%91%E6%9C%8D%E5%8A%A1-API%E6%96%87%E6%A1%A3.html)
+
+* [图片翻译定价](http://ai.youdao.com/product-fanyi-picture.s)
+
+<img src="images/yddj.png" width="80%;" >
+
+* 若图片因为没有翻墙而显示不出来，可点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/yddj.png)查看
+
+
 
 ------
 
