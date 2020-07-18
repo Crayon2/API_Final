@@ -62,17 +62,27 @@
 
 <img src="images/naotu.png" width="80%;" >
 
+* 若图片因为没有翻墙而显示不出来，可点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/naotu.png)查看
+
 #### 交互界面流程图
 
 <img src="images/yonghucz.png" width="80%;" >
+
+* 若图片因为没有翻墙而显示不出来，可点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/yonghucz.png)查看
+
 
 #### 数据流程图DFD
 
 <img src="images/dvd.png" width="80%;" >
 
+* 若图片因为没有翻墙而显示不出来，可点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/dvd.png)查看
+
+
 #### [原型文档交互展示](https://modao.cc/app/659cfadccfd02aa1f0991a4db6df7ce986abdc9a?simulator_type=device&sticky#screen=skcq8b56l2r5tzw)
 
 ## 心得总结及感谢
+
+api说难不难，说简单也不简单，把握好技术文档的书写，其实你已经成功了一半。
 
 感谢讯飞平台，百度智能云和有道智云提供技术文档供大家参考，本次api技术文档的书写就是参考其技术文档而来。
 
@@ -85,6 +95,7 @@
 - [百度智能云图片识别文字api技术文档](https://www.jianshu.com/p/aecb8ad0904f)
 
 - [有道智云图片翻译api技术文档](https://www.jianshu.com/p/ea7dd9d0562e)
+
 ------
 
 
@@ -95,7 +106,8 @@
 
 - [百度智能云图片识别文字api]( https://cloud.baidu.com/doc/OCR/s/zk3h7xz52)
 
-- [有道智云图片翻译api]( http://ai.youdao.com/DOCSIRMA/html/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E7%BF%BB%E8%AF%91/API%E6%96%87%E6%A1%A3/%E5%9B%BE%E7%89%87%E7%BF%BB%E8%AF%91%E6%9C%8D%E5%8A%A1/%E5%9B%BE%E7%89%87%E7%BF%BB%E8%AF%91%E6%9C%8D%E5%8A%A1-API%E6%96%87%E6%A1%A3.html)
+- [有道智云图片翻译api](http://ai.youdao.com/DOCSIRMA/html/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E7%BF%BB%E8%AF%91/API%E6%96%87%E6%A1%A3/%E5%9B%BE%E7%89%87%E7%BF%BB%E8%AF%91%E6%9C%8D%E5%8A%A1/%E5%9B%BE%E7%89%87%E7%BF%BB%E8%AF%91%E6%9C%8D%E5%8A%A1-API%E6%96%87%E6%A1%A3.html)
+
 ------
 
 
