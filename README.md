@@ -182,6 +182,5 @@ api说难不难，说简单也不简单，把握好技术文档的书写，其�
 感谢讯飞平台，百度智能云和有道智云提供技术文档供大家参考，本次api技术文档的书写就是参考其技术文档而来。
 
 
-* [PPT链接](https://aippt.wps.cn/view/210758
-[WPS智能PPT]产品市场工作周报.pptx)
+* [PPT链接](https://aippt.wps.cn/view/210758[WPS智能PPT]产品市场工作周报.pptx)
 
