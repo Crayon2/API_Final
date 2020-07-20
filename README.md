@@ -16,6 +16,10 @@
 
 <img src="images/yonghuhuaxiang.png" width="80%;" >
 
+* 若图片因为没有翻墙而显示不出来，可点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/yonghuhuaxiang.png
+)查看
+
+
 ### 需求列表
 
 <table>
