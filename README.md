@@ -20,11 +20,11 @@
 
 <img src="images/yonghuhuaxiang.png" width="80%;" >
 
-* 若图片显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/yonghuhuaxiang.png)查看
+* 若图片因为没有翻墙显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/yonghuhuaxiang.png)查看
 
 <img src="images/yhhx.png" width="80%;" >
 
-* 若图片显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/yhhx.png)查看
+* 若图片因为没有翻墙显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/yhhx.png)查看
 
 
 
@@ -46,7 +46,7 @@
 
 * 图片模板由廖老师提供 
 
-* 若图片显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/jiazhi.png)查看
+* 若图片因为没有翻墙显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/jiazhi.png)查看
 
 ### 商业画布
 
@@ -54,7 +54,7 @@
 
 * 图片模板由廖老师提供
 
-* 若图片显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/shangye.png)查看
+* 若图片因为没有翻墙显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/shangye.png)查看
 
 <hr>
 
@@ -157,7 +157,7 @@
 
 <img src="images/naotu.png" width="80%;" >
 
-* 若图片显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/naotu.png)查看
+* 若图片因为没有翻墙显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/naotu.png)查看
 
 
 
@@ -165,7 +165,7 @@
 
 <img src="images/dvd.png" width="80%;" >
 
-* 若图片显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/dvd.png)查看
+* 若图片因为没有翻墙显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/dvd.png)查看
 
 
 
@@ -173,20 +173,20 @@
 
 <img src="images/yonghucz.png" width="80%;" >
 
-* 若图片显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/yonghucz.png)查看
+* 若图片因为没有翻墙显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/yonghucz.png)查看
 
 <hr>
 
 ### 产品原型
 
-#### [原型文档交互展示](https://modao.cc/app/659cfadccfd02aa1f0991a4db6df7ce986abdc9a?simulator_type=device&sticky#screen=skcq8b56l2r5tzw)
+#### [原型文档交互展示](https://modao.cc/app/659cfadccfd02aa1f0991a4db6df7ce986abdc9a?simulator_type=device&sticky#screen=skcq82rizcy8rkh)
 
 
 #### 界面详情
 
 <img src="images/jm.png" width="80%;" >
 
-* 若图片显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/jm.png)查看
+* 若图片因为没有翻墙显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/jm.png)查看
 
 
 
@@ -194,7 +194,7 @@
 
 <img src="images/jh.png" width="80%;" >
 
-* 若图片显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/jh.png)查看
+* 若图片因为没有翻墙显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/jh.png)查看
 
 
 
@@ -242,7 +242,7 @@
 
 <img src="images/xfdj.png" width="80%;" >
 
-* 若图片显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/xfdj.png)查看
+* 若图片因为没有翻墙显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/xfdj.png)查看
 
 <hr>
 
@@ -271,7 +271,7 @@
 
 <img src="images/badj.png" width="80%;" >
 
-* 若图片显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/badj.png)查看
+* 若图片因为没有翻墙显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/badj.png)查看
 
 
 
@@ -299,7 +299,7 @@
 
 <img src="images/yddj.png" width="80%;" >
 
-* 若图片显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/yddj.png)查看
+* 若图片因为没有翻墙显示不出来，请点击[此处](https://gitee.com/crayon-heimi/API_Final/blob/master/images/yddj.png)查看
 
 
 
